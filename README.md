@@ -1,10 +1,17 @@
 # Integrantes
+<<<<<<< HEAD
 * Eduardo M.
 * Juan J.
 
 -------------------
+=======
+- Juan Jose Sierra Alarcon
+
+
+>>>>>>> a6d246dc0280002f816206ae0fe53c4240f77bcf
 
 #ISIS1225 - Estructura de un proyecto
+
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
