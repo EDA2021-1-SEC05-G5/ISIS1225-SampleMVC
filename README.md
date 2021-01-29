@@ -1,14 +1,8 @@
 # Integrantes
-<<<<<<< HEAD
-* Eduardo M.
-* Juan J.
 
--------------------
-=======
-- Juan Jose Sierra Alarcon
+* Eduardo José Herrera Alba
+- Juan José Sierra Alarcón
 
-
->>>>>>> a6d246dc0280002f816206ae0fe53c4240f77bcf
 
 # ISIS1225 - Estructura de un proyecto
 
