@@ -71,3 +71,12 @@ def createTagList():
     """
     taglist = lt.newList(datastructure='SINGLE_LINKED')
     return taglist
+
+
+
+def addBookTag(booktaglist, booktag):
+    lt.addLast(booktaglistm booktag)
+
+def createTagList():
+    booktaglist = lt.newList(datastructure='SINGLE_LINKED')
+    return booktaglist
