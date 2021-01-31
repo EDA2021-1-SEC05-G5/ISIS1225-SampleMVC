@@ -1,7 +1,7 @@
 # Integrantes
 
-* Eduardo José Herrera Alba
-- Juan José Sierra Alarcón
+* Eduardo José Herrera Alba - 201912865 - ej.herreraa@uniandes.edu.co	 
+- Juan José Sierra Alarcón - 202013642 - j.sierraa@uniandes.edu.co
 
 
 # ISIS1225 - Estructura de un proyecto
