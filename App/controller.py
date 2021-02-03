@@ -52,6 +52,6 @@ def loadTags(filename):
     return tags
 
 
-def loadBooks1(filename):
-    books1file = cf.data_dir + filename
-    return model.addBooks1(books1file)
+def loadBooktags(filename):
+    booktagsfile = cf.data_dir + filename
+    return model.addBooktags(booktagsfile)
